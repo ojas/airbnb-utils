@@ -1,0 +1,9 @@
+timezone:    America/Chicago
+days_future: 100
+calendars:
+- name: Main House
+  url: https://www.airbnb.com/calendar/ical/8644874.ics?s=0f21e7d307435beca73c35866c755a1f
+- name: Airstream
+  url: https://www.airbnb.com/calendar/ical/17016200.ics?s=d0211a429d7f9eab0e5253acf48e8ca7
+- name: Guest House
+  url: https://www.airbnb.com/calendar/ical/17016326.ics?s=4865359a7ad230211fb4ecc022132ad7
